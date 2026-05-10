@@ -1,0 +1,152 @@
+[
+  {
+    "folder": "album1",
+    "title": "NFAK",
+    "description": "The Legend",
+    "songs": [
+      { "name": "Andaz-E-Karam.mp3", "artist": "Nusrat Fateh Ali Khan" },
+      { "name": "Kehna Ghalat Ghalat.mp3", "artist": "Nusrat Fateh Ali Khan" },
+      { "name": "Kali Kali Zulfon.mp3", "artist": "Nusrat Fateh Ali Khan" },
+      { "name": "Sanson Ki Mala Pe.mp3", "artist": "Nusrat Fateh Ali Khan" },
+      { "name": "Piya Ghar Aya.mp3", "artist": "Nusrat Fateh Ali Khan" },
+      { "name": "Tumhein Dillagi.mp3", "artist": "Nusrat Fateh Ali Khan" },
+      { "name": "Ye Jo Halka Halka.mp3", "artist": "Nusrat Fateh Ali Khan" }
+    ]
+  },
+  {
+    "folder": "album2",
+    "title": "Atif Aslam",
+    "description": "Artist",
+    "songs": [
+      { "name": "Aadat.mp3", "artist": "Atif Aslam" },
+      { "name": "Dil Diyan Gallan.mp3", "artist": "Atif Aslam" },
+      { "name": "Dil Meri Na Sune.mp3", "artist": "Atif Aslam" },
+      { "name": "Hona Tha Pyar.mp3", "artist": "Atif Aslam" },
+      { "name": "Jeene Laga Hoon.mp3", "artist": "Atif Aslam" },
+      { "name": "Main Rang Sharbaton Ka.mp3", "artist": "Atif Aslam" },
+      { "name": "Pehli Dafa.mp3", "artist": "Atif Aslam" }
+    ]
+  },
+  {
+    "folder": "album3",
+    "title": "Ed Sheeran",
+    "description": "Artist",
+    "songs": [
+      { "name": "Bad Habits.mp3", "artist": "Ed Sheeran" },
+      { "name": "Galway Girl.mp3", "artist": "Ed Sheeran" },
+      { "name": "I Don't Care.mp3", "artist": "Ed Sheeran" },
+      { "name": "Perfect.mp3", "artist": "Ed Sheeran" },
+      { "name": "Photograph.mp3", "artist": "Ed Sheeran" },
+      { "name": "Sapphire.mp3", "artist": "Ed Sheeran" },
+      { "name": "Shape of You.mp3", "artist": "Ed Sheeran" }
+    ]
+  },
+  {
+    "folder": "album4",
+    "title": "Arijit Singh",
+    "description": "Artist",
+    "songs": [
+      { "name": "Hawayein.mp3", "artist": "Arijit Singh" },
+      { "name": "Kesariya.mp3", "artist": "Arijit Singh" },
+      { "name": "Mast Magan.mp3", "artist": "Arijit Singh" },
+      { "name": "Satranga.mp3", "artist": "Arijit Singh" },
+      { "name": "Tere Fitoor.mp3", "artist": "Arijit Singh" },
+      { "name": "Tere Hawale.mp3", "artist": "Arijit Singh" },
+      { "name": "Ve Kamleya.mp3", "artist": "Arijit Singh" }
+    ]
+  },
+  {
+    "folder": "album5",
+    "title": "Karan Aujla",
+    "description": "Artist",
+    "songs": [
+      { "name": "Aaye Haaye.mp3", "artist": "Karan Aujla" },
+      { "name": "At Peace.mp3", "artist": "Karan Aujla" },
+      { "name": "Boyfriend.mp3", "artist": "Karan Aujla" },
+      { "name": "Courtside.mp3", "artist": "Karan Aujla" },
+      { "name": "For A Reason.mp3", "artist": "Karan Aujla" },
+      { "name": "Softly.mp3", "artist": "Karan Aujla" },
+      { "name": "Wavy.mp3", "artist": "Karan Aujla" }
+    ]
+  },
+  {
+    "folder": "album6",
+    "title": "Happy Hits",
+    "description": "Be happy in your life",
+    "songs": [
+      { "name": "Flutter.mp3", "artist": "Clark Sims" }
+    ]
+  },
+  {
+    "folder": "album7",
+    "title": "Dark Horse",
+    "description": "Dark songs for you",
+    "songs": [
+      { "name": "Way When Back.mp3", "artist": "Patrick Patrikios" }
+    ]
+  },
+  {
+    "folder": "album8",
+    "title": "Just Chill",
+    "description": "Yes, just chill",
+    "songs": [
+      { "name": "You and I.mp3", "artist": "Telecasted" }
+    ]
+  },
+  {
+    "folder": "album9",
+    "title": "Love Collection",
+    "description": "True love never ends",
+    "songs": [
+      { "name": "My First True Love.mp3", "artist": "Jeremy Korpas" }
+    ]
+  },
+  {
+    "folder": "album10",
+    "title": "Lofi Hits",
+    "description": "Listen and feel relax",
+    "songs": [
+      { "name": "On The Flip.mp3", "artist": "The Grey Room" }
+    ]
+  },
+  {
+    "folder": "album11",
+    "title": "Bright Songs",
+    "description": "Sounds Bright",
+    "songs": [
+      { "name": "Soaring.mp3", "artist": "The Grey Room" }
+    ]
+  },
+  {
+    "folder": "album12",
+    "title": "Angry Mood",
+    "description": "Calm your anger",
+    "songs": [
+      { "name": "Test Your Fight.mp3", "artist": "Rod Kim" }
+    ]
+  },
+  {
+    "folder": "album13",
+    "title": "Funky Mood",
+    "description": "Funky songs for you",
+    "songs": [
+      { "name": "Ruff Money.mp3", "artist": "Clark Sims" }
+    ]
+  },
+  {
+    "folder": "album14",
+    "title": "Sad Songs",
+    "description": "Don't feel dejected",
+    "songs": [
+      { "name": "I'm Giving Up.mp3", "artist": "Everet Almond" }
+    ]
+  },
+  {
+    "folder": "album15",
+    "title": "Uplifting Songs",
+    "description": "Be enjoy it",
+    "songs": [
+      { "name": "Only Me.mp3", "artist": "Patrick Patrikios" }
+    ]
+  }
+]

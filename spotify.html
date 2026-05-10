@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/spotify.css">
+    <link rel="stylesheet" href="css/utility.css">
+    <title>Spotify - Web Player: Music for everyone</title>
+</head>
+
+<body>
+    <div class="nav">
+        <div class="main">
+            <div class="logo"><img width="122" class="invert" src="img/logo.svg" alt=""></div>
+            <div class="home">
+                <a href="index.html"><img class="invert home1" src="img/home.svg" alt="home"></a>
+                <div class="hamburgerContainer">
+                    <img width="40" class="invert hamburger" src="img/hamburger.svg" alt="">
+                </div>
+                <div class="search">
+                    <input placeholder="What do you want to play?" type="text">
+                    <i class="search-icon"><img class="invert" src="img/search.svg" alt=""></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="buttons">
+            <div class="btn">
+                <a href="https://www.spotify.com/pk-en/premium/">Premium</a>
+                <a href="https://support.spotify.com/pk-en/">Support</a>
+                <a href="https://www.spotify.com/pk-en/download/windows/">Download</a>
+            </div>
+
+            <span>|</span>
+
+            <button class="signupbtn">
+                <a href="https://www.spotify.com/pk-en/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F">Sign up</a>
+            </button>
+
+            <button class="loginbtn">
+                <a href="https://accounts.spotify.com/en/login?continue=https%3A%2F%2Fopen.spotify.com%2F">Log in</a>
+            </button>
+        </div>
+    </div>
+
+    <div class="container flex bg-black">
+        <div class="left">
+            <div class="close">
+                <img width="30" class="invert" src="img/close.svg" alt="">
+            </div>
+
+            <div class="library bg-grey rounded p-1">
+                <div class="heading">
+                    <img class="invert" src="img/playlist.svg" alt="">
+                    <h2>
+                        Your Library
+                    </h2>
+                </div>
+
+                <div class="songList">
+                    <ul>
+
+                    </ul>
+                </div>
+
+                <div class="footerLeft">
+                    <div><a href="https://www.spotify.com/jp/legal/"><span>Legal</span></a></div>
+                    <div><a href="https://www.spotify.com/jp/privacy/"><span>Safety & Privacy Center</span></a></div>
+                    <div><a href="https://www.spotify.com/jp/legal/privacy-policy/"><span>Privacy Policy</span></a>
+                    </div>
+                    <div><a href="https://www.spotify.com/jp/legal/privacy-policy/#s3"><span>About Ads</span></a></div>
+                    <div><a href="https://www.spotify.com/jp/accessibility/"><span>Accessibility</span></a></div>
+                </div>
+                <div class="cookies">
+                    <a href="https://www.spotify.com/pk-en/legal/cookies-policy/"><span>Cookies</span></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="right bg-grey rounded">
+            <div class="spotifyPlaylists">
+                <h1>Spotify Playlists</h1>
+                <div class="cardContainer">
+                    <!-- Cards will be dynamically created by JavaScript -->
+
+                    <footer>
+                        <hr>
+                        <div class="footerRight">
+                            <div class="col">
+                                <div class="column">
+                                    <h4>Company</h4>
+                                    <div><a
+                                            href="https://www.spotify.com/pk-en/about-us/contact/"><span>About</span></a>
+                                    </div>
+                                    <div><a href="https://www.lifeatspotify.com/"><span>Jobs</span></a></div>
+                                    <div><a href="https://newsroom.spotify.com/"><span>For the Record</span></a></div>
+                                </div>
+
+                                <div class="column">
+                                    <h4>Communities</h4>
+                                    <div><a href="https://artists.spotify.com/home"><span>For Artists</span></a></div>
+                                    <div><a href="http://developer.spotify.com/"><span>Developers</span></a></div>
+                                    <div><a href="https://ads.spotify.com/en-US/"><span>Advertising</span></a></div>
+                                    <div><a
+                                            href="https://investors.spotify.com/home/default.aspx"><span>Investors</span></a>
+                                    </div>
+                                    <div><a href="https://spotifyforvendors.com/"><span>Vendors</span></a></div>
+                                </div>
+
+                                <div class="column">
+                                    <h4>Useful Links</h4>
+                                    <div><a href="https://support.spotify.com/pk-en/"><span>Support</span></a></div>
+                                    <div><a href="https://www.spotify.com/pk-en/free/"><span>Free Mobile App</span></a>
+                                    </div>
+                                    <div><a href="https://open.spotify.com/popular-in/pk"><span>Popular by
+                                                Country</span></a></div>
+                                    <div><a href="https://www.spotify.com/pk-en/import-music/"><span>Impact your
+                                                music</span></a></div>
+                                </div>
+
+                                <div class="column">
+                                    <h4>Spotify Plans</h4>
+                                    <div><a
+                                            href="https://www.spotify.com/pk-en/premium/#ref=spotifycom_footer_premium_individual"><span>Premium
+                                                Individual</span></a></div>
+                                    <div><a href="https://www.spotify.com/pk-en/duo/#ref=spotifycom_footer_premium_duo"><span>Premium
+                                                Duo</span></a></div>
+                                    <div><a
+                                            href="https://www.spotify.com/pk-en/family/#ref=spotifycom_footer_premium_family"><span>Premium
+                                                Family</span></a></div>
+                                    <div><a
+                                            href="https://www.spotify.com/pk-en/student/#ref=spotifycom_footer_premium_student"><span>Premium
+                                                Student</span></a></div>
+                                    <div><a href="https://www.spotify.com/pk-en/free/#ref=spotifycom_footer_free"><span>Spotify
+                                                Free</span></a></div>
+                                </div>
+                            </div>
+                            <div class="image">
+                                <a href="https://www.instagram.com/spotify"><img src="img/insta.svg" alt=""></a>
+                                <a href="https://x.com/spotify"><img src="img/X.svg" alt=""></a>
+                                <a href="https://www.facebook.com/Spotify"><img src="img/fb.svg" alt=""></a>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="footer">
+                            <p>&#169; 2026 Spotify AB</p>
+                        </div>
+                    </footer>
+                </div>
+
+                <div class="playbar">
+                    <div class="seekbar">
+                        <div class="circle">
+
+                        </div>
+                    </div>
+
+                    <div class="abovebar">
+                        <div class="songinfo">
+
+                        </div>
+                        <div class="songbuttons">
+                            <img width="35" id="previous" src="img/prevsong.svg" alt="">
+                            <img width="35" id="play" src="img/play.svg" alt="">
+                            <img width="35" id="next" src="img/nextsong.svg" alt="">
+                        </div>
+                        <div class="timevol">
+                            <div class="songtime">
+
+                            </div>
+                            <div class="volume">
+                                <img width="25" src="img/volume.svg" alt="">
+                                <div class="range">
+                                    <input type="range" name="volume" id="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/spotify.js"></script>
+</body>
+
+</html>
